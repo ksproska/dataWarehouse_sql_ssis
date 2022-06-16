@@ -43,6 +43,46 @@ Analysis of programmers' employment in Europe 2018-2021 using [data warehouse](h
 
 # Multidimensional project
 ## Final cube
+![image](https://user-images.githubusercontent.com/61067969/174026489-52ebc056-bd5b-43cb-8b0a-26b1b9331cde.png)
+
 ## Adding average earings measure
+![image](https://user-images.githubusercontent.com/61067969/174026527-442d4431-e623-4732-a6b1-f9779798d886.png)
 
 # Analysis - samples
+![image](https://user-images.githubusercontent.com/61067969/174026574-0b2cbf9a-d66f-43fb-963a-d7212d6ac00f.png)
+
+![image](https://user-images.githubusercontent.com/61067969/174026617-0a444587-219e-4217-b49b-8ddbba1ba195.png)
+
+![image](https://user-images.githubusercontent.com/61067969/174026659-f35007cc-f924-4be5-9928-dcda2aaefad7.png)
+
+![image](https://user-images.githubusercontent.com/61067969/174026690-26fa07d1-85eb-45f2-ba1b-c977c6d57902.png)
+
+![image](https://user-images.githubusercontent.com/61067969/174026721-18aa4985-0758-4144-9f9f-ea96b61a7b3e.png)
+
+![image](https://user-images.githubusercontent.com/61067969/174026753-a1456dff-0515-46d2-a719-1095b3a43d69.png)
+
+![image](https://user-images.githubusercontent.com/61067969/174026787-95082bc4-986b-4fcc-a39f-b3e2d1718116.png)
+
+![image](https://user-images.githubusercontent.com/61067969/174026815-f4e4c653-3cfa-4424-84cd-2859d934f1ee.png)
+
+![image](https://user-images.githubusercontent.com/61067969/174026856-71709067-6860-4088-bff4-9bb5796218d6.png)
+
+![image](https://user-images.githubusercontent.com/61067969/174026882-e8626730-2347-43cf-a5d8-7ba8a281fa12.png)
+
+![image](https://user-images.githubusercontent.com/61067969/174026905-a2dd6ed4-9255-49d4-968e-a14542e30560.png)
+
+![image](https://user-images.githubusercontent.com/61067969/174026938-a120d9d6-4e80-4ca0-9bed-c3739960703c.png)
+
+![image](https://user-images.githubusercontent.com/61067969/174026970-13198634-7c2f-4d94-9a8e-ae7fcdaaddc4.png)
+
+![image](https://user-images.githubusercontent.com/61067969/174027006-2f1ba947-8f30-4e3e-a1d0-c49507021159.png)
+
+![image](https://user-images.githubusercontent.com/61067969/174027034-f3e470b9-2aa4-4953-a697-d6dcc343406f.png)
+
+![image](https://user-images.githubusercontent.com/61067969/174027055-3f4de63a-fefd-43da-84ee-d520e4c74399.png)
+
+![image](https://user-images.githubusercontent.com/61067969/174027077-6fdcec0c-00ae-4f74-b58d-82699b7c806e.png)
+
+![image](https://user-images.githubusercontent.com/61067969/174027098-777dab3e-37b7-4b06-bc22-8a44b2b96707.png)
+
+![image](https://user-images.githubusercontent.com/61067969/174027119-9ce3dd36-5ecc-4278-b4f7-630a4735843d.png)
