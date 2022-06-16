@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Earnings_MultidimensionalProject", "Earnings_MultidimensionalProject\Earnings_MultidimensionalProject.dwproj", "{4ABF8CF6-926B-4F9B-BFEC-22D7FF4BA27F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ABF8CF6-926B-4F9B-BFEC-22D7FF4BA27F}.Development|Default.ActiveCfg = Development
+		{4ABF8CF6-926B-4F9B-BFEC-22D7FF4BA27F}.Development|Default.Build.0 = Development
+		{4ABF8CF6-926B-4F9B-BFEC-22D7FF4BA27F}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72CCCA24-FA8A-42EC-9304-07626A894A9C}
+	EndGlobalSection
+EndGlobal
