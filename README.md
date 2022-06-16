@@ -20,7 +20,7 @@ Analysis of programmers' employment in Europe 2018-2021 using [data warehouse](h
 # Planed normalization
 ![image](https://user-images.githubusercontent.com/61067969/174017209-ff11f98c-2aed-43bb-a0ae-11774abf3304.png)
 
-# Created tables in database
+# Tables created in database
 ![image](https://user-images.githubusercontent.com/61067969/174017256-a0d7aac9-360e-401c-a265-386244bd3237.png)
 
 # Integration services
@@ -30,7 +30,7 @@ Analysis of programmers' employment in Europe 2018-2021 using [data warehouse](h
 ## Importing libraries
 ![image](https://user-images.githubusercontent.com/61067969/174017311-56c60584-cbe3-455f-8293-6584a86688fa.png)
 
-## Data normalization, cleaning, import to temorary table
+## Data normalization, cleaning, checking correction of string attributes, import to temorary table
 ![image](https://user-images.githubusercontent.com/61067969/174017364-99a652ce-4de9-49ad-8d41-67468c9341bd.png)
 
 ![image](https://user-images.githubusercontent.com/61067969/174017383-e198d958-7651-43d2-92ee-58a9ec54c6da.png)
@@ -40,3 +40,9 @@ Analysis of programmers' employment in Europe 2018-2021 using [data warehouse](h
 
 ## Mapping keys for earnings fact
 ![image](https://user-images.githubusercontent.com/61067969/174017412-5bdac1e5-dcdd-4961-97e7-0893d7637c0e.png)
+
+# Multidimensional project
+## Final cube
+## Adding average earings measure
+
+# Analysis - samples
