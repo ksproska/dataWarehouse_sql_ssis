@@ -1,0 +1,23 @@
+date_of_employment;age;sex;country;experience_years_it;languages;speciality;core_programming_language;academic_title;education;education_towards_it;rate_per_hour;salary_monthly;company_country;company_type;work_form;team_size;team_type;form_of_employment;full_time;paid_days_off;insurance;training_sessions;data_source
+;34;M;Sweden;10;Swedish;Backend;Kotlin;No degree;Advanced;False;7.0;;Sweden;Big tech;remote;9;local;contractor;False;True;False;False;europa.jobs
+2018-01-01;;M;Sweden;10;Swedish;Backend;Kotlin;No degree;Advanced;False;7.0;;Sweden;Big tech;remote;9;local;contractor;False;True;False;False;europa.jobs
+2018-01-02;34;;Sweden;10;Swedish;Backend;Kotlin;No degree;Advanced;False;7.0;;Sweden;Big tech;remote;9;local;contractor;False;True;False;False;europa.jobs
+2018-01-03;34;M;;10;Swedish;Backend;Kotlin;No degree;Advanced;False;7.0;;Sweden;Big tech;remote;9;local;contractor;False;True;False;False;europa.jobs
+2018-01-04;34;M;Sweden;;Swedish;Backend;Kotlin;No degree;Advanced;False;7.0;;Sweden;Big tech;remote;9;local;contractor;False;True;False;False;europa.jobs
+2018-01-05;34;M;Sweden;10;;Backend;Kotlin;No degree;Advanced;False;7.0;;Sweden;Big tech;remote;9;local;contractor;False;True;False;False;europa.jobs
+2018-01-06;34;M;Sweden;10;Swedish;;Kotlin;No degree;Advanced;False;7.0;;Sweden;Big tech;remote;9;local;contractor;False;True;False;False;europa.jobs
+2018-01-07;34;M;Sweden;10;Swedish;Backend;;No degree;Advanced;False;7.0;;Sweden;Big tech;remote;9;local;contractor;False;True;False;False;europa.jobs
+2018-01-08;34;M;Sweden;10;Swedish;Backend;Kotlin;;Advanced;False;7.0;;Sweden;Big tech;remote;9;local;contractor;False;True;False;False;europa.jobs
+2018-01-09;34;M;Sweden;10;Swedish;Backend;Kotlin;No degree;;False;7.0;;Sweden;Big tech;remote;9;local;contractor;False;True;False;False;europa.jobs
+2018-01-10;34;M;Sweden;10;Swedish;Backend;Kotlin;No degree;Advanced;;7.0;;Sweden;Big tech;remote;9;local;contractor;False;True;False;False;europa.jobs
+2018-01-11;34;M;Sweden;10;Swedish;Backend;Kotlin;No degree;Advanced;False;7.0;;;Big tech;remote;9;local;contractor;False;True;False;False;europa.jobs
+2018-01-12;34;M;Sweden;10;Swedish;Backend;Kotlin;No degree;Advanced;False;7.0;;Sweden;;remote;9;local;contractor;False;True;False;False;europa.jobs
+2018-02-01;34;M;Sweden;10;Swedish;Backend;Kotlin;No degree;Advanced;False;7.0;;Sweden;Big tech;;9;local;contractor;False;True;False;False;europa.jobs
+2018-03-01;34;M;Sweden;10;Swedish;Backend;Kotlin;No degree;Advanced;False;7.0;;Sweden;Big tech;remote;;local;contractor;False;True;False;False;europa.jobs
+2018-04-01;34;M;Sweden;10;Swedish;Backend;Kotlin;No degree;Advanced;False;7.0;;Sweden;Big tech;remote;9;;contractor;False;True;False;False;europa.jobs
+2018-05-01;34;M;Sweden;10;Swedish;Backend;Kotlin;No degree;Advanced;False;7.0;;Sweden;Big tech;remote;9;local;;False;True;False;False;europa.jobs
+2018-06-01;34;M;Sweden;10;Swedish;Backend;Kotlin;No degree;Advanced;False;7.0;;Sweden;Big tech;remote;9;local;contractor;;True;False;False;europa.jobs
+2018-07-01;34;M;Sweden;10;Swedish;Backend;Kotlin;No degree;Advanced;False;7.0;;Sweden;Big tech;remote;9;local;contractor;False;;False;False;europa.jobs
+2018-08-01;34;M;Sweden;10;Swedish;Backend;Kotlin;No degree;Advanced;False;7.0;;Sweden;Big tech;remote;9;local;contractor;False;True;;False;europa.jobs
+2018-09-01;34;M;Sweden;10;Swedish;Backend;Kotlin;No degree;Advanced;False;7.0;;Sweden;Big tech;remote;9;local;contractor;False;True;False;;europa.jobs
+2018-10-01;34;M;Sweden;10;Swedish;Backend;Kotlin;No degree;Advanced;False;7.0;;Sweden;Big tech;remote;9;local;contractor;False;True;False;False;

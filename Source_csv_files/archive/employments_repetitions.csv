@@ -1,0 +1,5 @@
+date_of_employment;age;sex;country;experience_years_it;languages;speciality;core_programming_language;academic_title;education;education_towards_it;rate_per_hour;salary_monthly;company_country;company_type;work_form;team_size;team_type;form_of_employment;full_time;paid_days_off;insurance;training_sessions;data_source
+2022-06-10;18;F;Germany;0;German,English;Backend;Kotlin;No degree;Advanced;False;3.5;560.0;Poland;Startup;remote;24;international;employee;False;True;True;True;linked.in
+2022-06-10;18;F;United Kingdom;0;English,English;Frontend;JavaScript;Master;Advanced;False;28.0;4480.0;Russia;Company;stationary;18;international;contractor;True;True;False;False;europa.jobs
+2022-06-10;18;F;Germany;0;German,English;Backend;Kotlin;No degree;Advanced;False;3.5;560.0;Poland;Startup;remote;24;international;employee;False;True;True;True;linked.in
+2022-06-10;18;F;United Kingdom;0;English,English;Frontend;JavaScript;Master;Advanced;False;28.0;4480.0;Russia;Company;stationary;18;international;contractor;True;True;False;False;europa.jobs

@@ -1,0 +1,1 @@
+7;2022-06-01;34;M;Sweden;10;Backend;Kotlin;No degree;False;7;Sweden;Big tech;remote;9;local;contractor;False;True;False;False;Swedish;False;False;2022;6;1;2;16;27;34;47963;1305;83;-1071607683;0

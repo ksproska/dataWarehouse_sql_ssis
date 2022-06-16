@@ -1,0 +1,16 @@
+date_of_employment;age;sex;country;experience_years_it;languages;speciality;core_programming_language;academic_title;education;education_towards_it;rate_per_hour;salary_monthly;company_country;company_type;work_form;team_size;team_type;form_of_employment;full_time;paid_days_off;insurance;training_sessions;data_source
+1920-01-01;34;M;Sweden;10;Swedish;Backend;Kotlin;No degree;Advanced;False;7.0;;Sweden;Big tech;remote;9;local;contractor;False;True;False;False;europa.jobs
+2020-13-13;34;M;Sweden;10;Swedish;Backend;Kotlin;No degree;Advanced;False;7.0;;Sweden;Big tech;remote;9;local;contractor;False;True;False;False;europa.jobs
+2050-12-13;34;M;Sweden;10;Swedish;Backend;Kotlin;No degree;Advanced;False;7.0;;Sweden;Big tech;remote;9;local;contractor;False;True;False;False;europa.jobs
+
+2020-01-01;34;M;Sweden;-10;Swedish;Backend;Kotlin;No degree;Advanced;False;7.0;;Sweden;Big tech;remote;9;local;contractor;False;True;False;False;europa.jobs
+2020-01-01;34;M;Sweden;10;Swedish;Backend;Kotlin;No degree;Advanced;False;-7.0;;Sweden;Big tech;remote;9;local;contractor;False;True;False;False;europa.jobs
+2020-01-01;34;M;Sweden;10;Swedish;Backend;Kotlin;No degree;Advanced;False;7.0;;Sweden;Big tech;remote;-9;local;contractor;False;True;False;False;europa.jobs
+2020-01-01;34;M;Sweden;10;Swedish;Backend;Kotlin;No degree;A;False;0.01;;S;B;remote;9;local;contractor;False;True;False;False;europa.jobs
+;;;
+2020-01-01;34;M;Sweden;10;Swedish;Backend;Kotlin;No degree;Advanced;False;7000.0;;Sweden;Big tech;remote;9;local;contractor;False;True;False;False;europa.jobs
+2020-01-01;34;M;Sweden;10;Swedish;Backend;Kotlin;No degree;Advanced;False;7.0;;Sweden;Big tech;remote;9;loc;contractor;False;True;False;False;europa.jobs
+2020-01-01;34;M;Sweden;10;Swedish;Backend;Kotlin;No degr;Advanced;False;7.0;;Sweden;Big tech;remote;9;local;contractor;False;True;False;False;europa.jobs
+2020-01-01;34;M;Sweden;10;Swedish;Backend;Kotlin;No degree;Advanced;False;7.0;;Sweden;Big tech;remote;9;local;contractor;Fals;True;False;False;europa.jobs
+2020-01-01;34;M;Sweden;10aa;Swedish;Backend;Kotlin;No degree;Advanced;False;7.0;;Sweden;Big tech;remote;9;local;contractor;False;True;False;False;europa.jobs
+2022-06-01;34;M;Sweden;10;Swedish;Backend;Kotlin;No degree;Advanced;False;7.0;;Sweden;Big tech;remote;9;local;contractor;False;True;False;False;europa.jobs

@@ -1,0 +1,2 @@
+2020-13-13;34;M;Sweden;10;Swedish;Backend;Kotlin;No degree;Advanced;False;7.0;;Sweden;Big tech;remote;9;local;contractor;False;True;False;False;europa.jobs;Swedish;False;-1073442796;1178
+2020-01-01;34;M;Sweden;10aa;Swedish;Backend;Kotlin;No degree;Advanced;False;7.0;;Sweden;Big tech;remote;9;local;contractor;False;True;False;False;europa.jobs;Swedish;False;-1073442796;1181
